@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dennisbragra
+- 👋 Hi, I’m @Dennis Kaleli
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python and JavaScript 
+- 🌱 I’m currently learning python // Django // html // css // Bootsraps
 - 💞️ I’m looking to collaborate on fellow developers
 - 📫 How to reach me dennisbragra@gmail.com
 
